@@ -1,6 +1,6 @@
-# Python for Robotics – Course Projects
+# Essential Python for Robotics – Course Projects
 
-Hands-on projects for the **Python for Robotics** course. Each section has a
+Hands-on projects for the **Essential Python for Robotics** course. Each section has a
 project with **starter code** (your workspace) and a **reference solution**.
 
 ## Projects
