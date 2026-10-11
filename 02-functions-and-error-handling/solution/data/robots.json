@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Atlas", "battery": 85, "status": "active"},
+  {"id": 2, "name": "Scout", "battery": 40, "status": "idle"},
+  {"id": 3, "name": "Hauler", "battery": 12, "status": "charging"}
+]
